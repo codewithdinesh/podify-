@@ -4,7 +4,7 @@
         "title": "The Joe Rogan Experience",
         "description": "The Joe Rogan Experience is a long form, in-depth conversation with the best guests from the comedy, science, and entertainment worlds.",
         "publisher": "Joe Rogan",
-        "imageUrl": "http://192.168.84.54:3000/Images/i1.jpg",
+        "imageUrl": "https://podify-24yvn26w3-dsr0198-gmailcom.vercel.app/Images/i1.jpg",
         "episodes": [
             {
                 "id": 1,
@@ -34,7 +34,7 @@
         "title": "Serial",
         "description": "Serial tells one story — a true story — over the course of a season. Each season, we follow a plot and characters wherever they take us. We won’t know what happens at the end until we get there, not long before you get there with us.",
         "publisher": "This American Life",
-        "imageUrl": "http://192.168.84.54:3000/Images/i2.jpg",
+        "imageUrl": "https://podify-24yvn26w3-dsr0198-gmailcom.vercel.app/Images/i2.jpg",
         "episodes": [
             {
                 "id": 1,

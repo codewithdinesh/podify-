@@ -2,7 +2,10 @@ import { Button, Navbar } from 'flowbite-react';
 import Link from 'next/link';
 
 
+
+
 function Header() {
+
     return (
         <Navbar
             className=' dark:bg-slate-700 shadow-md'
@@ -13,7 +16,7 @@ function Header() {
         >
             <Navbar.Brand href="/">
                 <img
-                    src="http://localhost:3000/podify+.png"
+                    src="https://podify-24yvn26w3-dsr0198-gmailcom.vercel.app/podify+.png"
                     className="mr-3 h-6 sm:h-9"
                     alt="Podify+ Logo"
                 />
