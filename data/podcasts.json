@@ -1,0 +1,55 @@
+[
+    {
+        "id": 1,
+        "title": "The Joe Rogan Experience",
+        "description": "The Joe Rogan Experience is a long form, in-depth conversation with the best guests from the comedy, science, and entertainment worlds.",
+        "publisher": "Joe Rogan",
+        "imageUrl": "http://192.168.84.54:3000/Images/i1.jpg",
+        "episodes": [
+            {
+                "id": 1,
+                "title": "Elon Musk",
+                "description": "Elon Musk is a business magnate, investor, and engineer. He is the founder, CEO, and lead designer of SpaceX; co-founder, CEO, and product architect of Tesla, Inc.",
+                "audioUrl": "https://example.com/episode1.mp3",
+                "publishedAt": "2022-01-01T00:00:00.000Z"
+            },
+            {
+                "id": 2,
+                "title": "Neil deGrasse Tyson",
+                "description": "Neil deGrasse Tyson is an astrophysicist, author, and science communicator. He is the Frederick P. Rose Director of the Hayden Planetarium at the Rose Center for Earth and Space.",
+                "audioUrl": "https://example.com/episode2.mp3",
+                "publishedAt": "2022-01-08T00:00:00.000Z"
+            },
+            {
+                "id": 3,
+                "title": "Jordan Peterson",
+                "description": "Jordan Peterson is a clinical psychologist and professor of psychology at the University of Toronto. He is the author of the best-selling book 12 Rules for Life: An Antidote to Chaos.",
+                "audioUrl": "https://example.com/episode3.mp3",
+                "publishedAt": "2022-01-15T00:00:00.000Z"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Serial",
+        "description": "Serial tells one story — a true story — over the course of a season. Each season, we follow a plot and characters wherever they take us. We won’t know what happens at the end until we get there, not long before you get there with us.",
+        "publisher": "This American Life",
+        "imageUrl": "http://192.168.84.54:3000/Images/i2.jpg",
+        "episodes": [
+            {
+                "id": 1,
+                "title": "The Alibi",
+                "description": "It's Baltimore, 1999. Hae Min Lee, a popular high-school senior, disappears after school one day. Six weeks later detectives arrest her classmate and ex-boyfriend, Adnan Syed, for her murder.",
+                "audioUrl": "https://example.com/episode1.mp3",
+                "publishedAt": "2022-01-01T00:00:00.000Z"
+            },
+            {
+                "id": 2,
+                "title": "The Breakup",
+                "description": "Adnan once again professes his innocence, and Sarah, in an effort to confirm his story, talks to another person who remembers the day Hae disappeared: the man who found her body.",
+                "audioUrl": "https://example.com/episode2.mp3",
+                "publishedAt": "2022-01-08T00:00:00.000Z"
+            }
+        ]
+    }
+]
